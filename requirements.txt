@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.23
+opencv-python>=4.6
+tensorboard>=2.12
+matplotlib>=3.6
+tqdm>=4.60
+psutil>=5.9

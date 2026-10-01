@@ -1,0 +1,3171 @@
+{
+  "summary": {
+    "num_images": 350,
+    "iou_threshold": 0.6,
+    "num_detected": 350,
+    "detection_rate": 1.0,
+    "avg_iou_detected": 0.9432351038773544,
+    "mean_iou": 0.9432351038773544,
+    "median_iou": 0.9566691174642133,
+    "min_iou": 0.7117330730907047,
+    "mean_dice": 0.9702347715921079,
+    "mean_precision": 0.9698116137131342,
+    "mean_recall": 0.9709840881579722,
+    "mean_pixel_accuracy": 0.9688020926339286,
+    "wrong_pixel_rate": 0.031197907366071427,
+    "error_band_px": 21.522562638349747,
+    "wrong_within_10px_of_edge": 0.3930244036760882
+  },
+  "per_image": [
+    {
+      "image": "psu_track_0066",
+      "iou": 0.8941830540439659,
+      "dice": 0.9441358396010769,
+      "precision": 0.9397964998637276,
+      "recall": 0.9485154374499867,
+      "pixel_accuracy": 0.9415538194444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0067",
+      "iou": 0.9151654908859661,
+      "dice": 0.9557038232373386,
+      "precision": 0.9538015873671344,
+      "recall": 0.9576136618048242,
+      "pixel_accuracy": 0.95353515625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0068",
+      "iou": 0.9080362184638349,
+      "dice": 0.9518018679906373,
+      "precision": 0.9495792073075049,
+      "recall": 0.954034958158909,
+      "pixel_accuracy": 0.9494596354166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0069",
+      "iou": 0.9104614866270946,
+      "dice": 0.9531325211213837,
+      "precision": 0.948511740074826,
+      "recall": 0.9577985438715004,
+      "pixel_accuracy": 0.9509787326388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0070",
+      "iou": 0.9290632765370743,
+      "dice": 0.9632273734481812,
+      "precision": 0.9711308958465821,
+      "recall": 0.9554514577306855,
+      "pixel_accuracy": 0.9610329861111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0071",
+      "iou": 0.8862322508720684,
+      "dice": 0.9396851850691594,
+      "precision": 0.9290082671930361,
+      "recall": 0.9506103718852864,
+      "pixel_accuracy": 0.9373263888888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0072",
+      "iou": 0.9019416691896256,
+      "dice": 0.948443039868749,
+      "precision": 0.9226612763356761,
+      "recall": 0.9757070522911923,
+      "pixel_accuracy": 0.9472840711805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0073",
+      "iou": 0.9275205830746389,
+      "dice": 0.9623975912050977,
+      "precision": 0.9506528687407603,
+      "recall": 0.9744361411461938,
+      "pixel_accuracy": 0.9609602864583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0074",
+      "iou": 0.9148178542834268,
+      "dice": 0.9555142304914164,
+      "precision": 0.9436720046910746,
+      "recall": 0.9676574518492799,
+      "pixel_accuracy": 0.9538226996527778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0075",
+      "iou": 0.9019581064578125,
+      "dice": 0.9484521277259993,
+      "precision": 0.9408970028328144,
+      "recall": 0.9561295655968847,
+      "pixel_accuracy": 0.9462521701388888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0076",
+      "iou": 0.907657563213984,
+      "dice": 0.9515938087806287,
+      "precision": 0.938532882946127,
+      "recall": 0.9650233849720505,
+      "pixel_accuracy": 0.9498209635416667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0077",
+      "iou": 0.9181238192386391,
+      "dice": 0.9573144444898973,
+      "precision": 0.9422122380885523,
+      "recall": 0.9729086672224082,
+      "pixel_accuracy": 0.9558430989583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0078",
+      "iou": 0.9335404309520434,
+      "dice": 0.9656280427426941,
+      "precision": 0.9654735259867362,
+      "recall": 0.9657826089650514,
+      "pixel_accuracy": 0.9638791232638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0079",
+      "iou": 0.9122991888421217,
+      "dice": 0.9541385512949048,
+      "precision": 0.9402507412393356,
+      "recall": 0.9684427667605934,
+      "pixel_accuracy": 0.9524989149305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0080",
+      "iou": 0.8853894536998999,
+      "dice": 0.9392112085515342,
+      "precision": 0.9166900669799556,
+      "recall": 0.9628668154423039,
+      "pixel_accuracy": 0.9376399739583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0081",
+      "iou": 0.9404316344745973,
+      "dice": 0.9693014871191111,
+      "precision": 0.9680936728305845,
+      "recall": 0.9705123189620734,
+      "pixel_accuracy": 0.9677745225694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0082",
+      "iou": 0.8829734841022813,
+      "dice": 0.9378501519613741,
+      "precision": 0.9254445371280382,
+      "recall": 0.9505928811841081,
+      "pixel_accuracy": 0.9355414496527777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0083",
+      "iou": 0.9335768403746553,
+      "dice": 0.9656475200579697,
+      "precision": 0.9520238518016865,
+      "recall": 0.9796667644021774,
+      "pixel_accuracy": 0.9644032118055555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0084",
+      "iou": 0.927294816252313,
+      "dice": 0.9622760445705631,
+      "precision": 0.9550280390812762,
+      "recall": 0.9696349061271037,
+      "pixel_accuracy": 0.9606488715277778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0085",
+      "iou": 0.956403369032992,
+      "dice": 0.9777159293134131,
+      "precision": 0.9755680081928626,
+      "recall": 0.9798733295174576,
+      "pixel_accuracy": 0.9766297743055555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0086",
+      "iou": 0.8989675066534745,
+      "dice": 0.9467960915642133,
+      "precision": 0.9436203863529373,
+      "recall": 0.9499932442966273,
+      "pixel_accuracy": 0.944267578125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0087",
+      "iou": 0.8913123141741657,
+      "dice": 0.9425331897797682,
+      "precision": 0.9290702091988008,
+      "recall": 0.9563920865144275,
+      "pixel_accuracy": 0.9404622395833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0088",
+      "iou": 0.9253406223045715,
+      "dice": 0.9612227691918411,
+      "precision": 0.9569110760565241,
+      "recall": 0.9655734938403555,
+      "pixel_accuracy": 0.9594259982638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0089",
+      "iou": 0.9039780875978907,
+      "dice": 0.9495677429128121,
+      "precision": 0.9383305390606288,
+      "recall": 0.9610773567708057,
+      "pixel_accuracy": 0.9476204427083333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0090",
+      "iou": 0.950734712777552,
+      "dice": 0.9747452655147036,
+      "precision": 0.970802603216029,
+      "recall": 0.9787200825968035,
+      "pixel_accuracy": 0.9735633680555555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0091",
+      "iou": 0.8900177059095432,
+      "dice": 0.9418088551516879,
+      "precision": 0.9382376260519817,
+      "recall": 0.9454073745815571,
+      "pixel_accuracy": 0.9390700954861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0092",
+      "iou": 0.8946503143341491,
+      "dice": 0.9443962377285041,
+      "precision": 0.9381983961149974,
+      "recall": 0.9506765111398904,
+      "pixel_accuracy": 0.9419411892361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0093",
+      "iou": 0.9175328133066138,
+      "dice": 0.9569930766654372,
+      "precision": 0.9321239500830023,
+      "recall": 0.9832255984946162,
+      "pixel_accuracy": 0.9559722222222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0094",
+      "iou": 0.9147440915622058,
+      "dice": 0.9554739932017571,
+      "precision": 0.9529922118251418,
+      "recall": 0.9579687344336333,
+      "pixel_accuracy": 0.9533224826388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0095",
+      "iou": 0.9248270207575091,
+      "dice": 0.960945592288648,
+      "precision": 0.9548752488003899,
+      "recall": 0.9670936104808607,
+      "pixel_accuracy": 0.9592111545138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0096",
+      "iou": 0.8761137162954279,
+      "dice": 0.9339665380469592,
+      "precision": 0.9258161891626266,
+      "recall": 0.9422616633499414,
+      "pixel_accuracy": 0.931201171875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0097",
+      "iou": 0.9136535083872047,
+      "dice": 0.9548787221749633,
+      "precision": 0.9247590455975752,
+      "recall": 0.9870264671529629,
+      "pixel_accuracy": 0.9540711805555555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0098",
+      "iou": 0.934618565754138,
+      "dice": 0.9662044831972469,
+      "precision": 0.9449252979410477,
+      "recall": 0.9884641386117656,
+      "pixel_accuracy": 0.9652615017361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0099",
+      "iou": 0.9333747382972543,
+      "dice": 0.9655393957606877,
+      "precision": 0.9619180548558403,
+      "recall": 0.9691881062886553,
+      "pixel_accuracy": 0.963916015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0100",
+      "iou": 0.9198664340171596,
+      "dice": 0.9582608641085684,
+      "precision": 0.9458998521650795,
+      "recall": 0.9709492210101541,
+      "pixel_accuracy": 0.9566959635416666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0166",
+      "iou": 0.9164127216605248,
+      "dice": 0.9563834671964352,
+      "precision": 0.9611809449872399,
+      "recall": 0.9516336422156944,
+      "pixel_accuracy": 0.9539268663194445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0167",
+      "iou": 0.9309523476201809,
+      "dice": 0.9642416590627327,
+      "precision": 0.9611169382479497,
+      "recall": 0.9673867639265563,
+      "pixel_accuracy": 0.9625379774305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0168",
+      "iou": 0.9508523520817969,
+      "dice": 0.9748070899031612,
+      "precision": 0.9769617033225692,
+      "recall": 0.972661959236533,
+      "pixel_accuracy": 0.9734624565972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0169",
+      "iou": 0.9582736628087571,
+      "dice": 0.9786922849529648,
+      "precision": 0.9809363153591397,
+      "recall": 0.9764584981861903,
+      "pixel_accuracy": 0.9775531684027777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0170",
+      "iou": 0.9618496202470507,
+      "dice": 0.9805538715306095,
+      "precision": 0.9868290648408916,
+      "recall": 0.9743579811751947,
+      "pixel_accuracy": 0.9794303385416666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0171",
+      "iou": 0.8726280238464603,
+      "dice": 0.9319822332403678,
+      "precision": 0.9314549764207432,
+      "recall": 0.9325100873131367,
+      "pixel_accuracy": 0.9285503472222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0172",
+      "iou": 0.7924211037082657,
+      "dice": 0.8841907764518712,
+      "precision": 0.87669204912414,
+      "recall": 0.8918188902121152,
+      "pixel_accuracy": 0.8793109809027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0173",
+      "iou": 0.7444608869654241,
+      "dice": 0.8535139910880439,
+      "precision": 0.825775720385527,
+      "recall": 0.8831805213274329,
+      "pixel_accuracy": 0.8510394965277778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0174",
+      "iou": 0.7201746776148913,
+      "dice": 0.8373273795815315,
+      "precision": 0.8107444603199511,
+      "recall": 0.8657126101258455,
+      "pixel_accuracy": 0.8344509548611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0175",
+      "iou": 0.8449646849712334,
+      "dice": 0.9159684105112376,
+      "precision": 0.8951610905096589,
+      "recall": 0.937766049489531,
+      "pixel_accuracy": 0.9136848958333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0176",
+      "iou": 0.8503307135631468,
+      "dice": 0.9191121428511351,
+      "precision": 0.9025032829263056,
+      "recall": 0.9363437727603787,
+      "pixel_accuracy": 0.9165190972222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0177",
+      "iou": 0.8729298118696589,
+      "dice": 0.9321543245640942,
+      "precision": 0.9317915279853982,
+      "recall": 0.9325174037652884,
+      "pixel_accuracy": 0.9287185329861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0178",
+      "iou": 0.8808259920921464,
+      "dice": 0.9366374090910505,
+      "precision": 0.9318906351946218,
+      "recall": 0.9414327878768917,
+      "pixel_accuracy": 0.933740234375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0179",
+      "iou": 0.8798439871153156,
+      "dice": 0.9360819229104922,
+      "precision": 0.9469053773919938,
+      "recall": 0.925503103785084,
+      "pixel_accuracy": 0.9320421006944445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0180",
+      "iou": 0.7117330730907047,
+      "dice": 0.8315935285465972,
+      "precision": 0.8025990865618883,
+      "recall": 0.8627613744060051,
+      "pixel_accuracy": 0.8291677517361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0181",
+      "iou": 0.9190067130608025,
+      "dice": 0.9577941617463058,
+      "precision": 0.956233843460163,
+      "recall": 0.959359580400459,
+      "pixel_accuracy": 0.9557118055555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0182",
+      "iou": 0.9483847576084757,
+      "dice": 0.9735087014051174,
+      "precision": 0.9775398287097067,
+      "recall": 0.9695106842638762,
+      "pixel_accuracy": 0.972041015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0183",
+      "iou": 0.9570560983220913,
+      "dice": 0.9780568877331992,
+      "precision": 0.9878511079360098,
+      "recall": 0.9684549738474244,
+      "pixel_accuracy": 0.9767057291666666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0184",
+      "iou": 0.947167689994299,
+      "dice": 0.9728670980536578,
+      "precision": 0.984518628025867,
+      "recall": 0.9614881282451984,
+      "pixel_accuracy": 0.9711404079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0185",
+      "iou": 0.8593297789837255,
+      "dice": 0.9243435873472848,
+      "precision": 0.9128475978890165,
+      "recall": 0.9361328203575444,
+      "pixel_accuracy": 0.9214702690972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0186",
+      "iou": 0.9774689681452234,
+      "dice": 0.9886061262059097,
+      "precision": 0.9957136132010803,
+      "recall": 0.9815993877318395,
+      "pixel_accuracy": 0.9879383680555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0187",
+      "iou": 0.9871342114776968,
+      "dice": 0.9935254556798477,
+      "precision": 0.9978733244687441,
+      "recall": 0.9892153110243714,
+      "pixel_accuracy": 0.9931651475694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0188",
+      "iou": 0.9590149392149352,
+      "dice": 0.9790787400521359,
+      "precision": 0.9821545081391796,
+      "recall": 0.9760221763065616,
+      "pixel_accuracy": 0.9779416232638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0189",
+      "iou": 0.9898424247378855,
+      "dice": 0.9948952866137365,
+      "precision": 0.999991741065898,
+      "recall": 0.9898505168756105,
+      "pixel_accuracy": 0.9946072048611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0190",
+      "iou": 0.958750590315198,
+      "dice": 0.9789409586453964,
+      "precision": 0.980870243886324,
+      "recall": 0.9770192479737081,
+      "pixel_accuracy": 0.977822265625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0191",
+      "iou": 0.9887113272612565,
+      "dice": 0.9943236242565734,
+      "precision": 0.9998554686532156,
+      "recall": 0.9888526545139704,
+      "pixel_accuracy": 0.9940006510416667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0192",
+      "iou": 0.9598379877219395,
+      "dice": 0.9795074835115612,
+      "precision": 0.9820223651935481,
+      "recall": 0.9770054497536005,
+      "pixel_accuracy": 0.9784060329861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0193",
+      "iou": 0.970046439162288,
+      "dice": 0.9847955052011622,
+      "precision": 0.9975801323081244,
+      "recall": 0.9723344180608131,
+      "pixel_accuracy": 0.9838118489583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0194",
+      "iou": 0.9922073872901851,
+      "dice": 0.9960884530598922,
+      "precision": 0.9987405125494504,
+      "recall": 0.9934504408475611,
+      "pixel_accuracy": 0.9958778211805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0195",
+      "iou": 0.9743504627118232,
+      "dice": 0.9870086199119145,
+      "precision": 0.99390490663275,
+      "recall": 0.9802073745856174,
+      "pixel_accuracy": 0.98625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0196",
+      "iou": 0.9682489515589862,
+      "dice": 0.9838683778208723,
+      "precision": 0.9867733170357034,
+      "recall": 0.9809804919701797,
+      "pixel_accuracy": 0.9829947916666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0197",
+      "iou": 0.9551039744976925,
+      "dice": 0.9770365023610357,
+      "precision": 0.9823713051593561,
+      "recall": 0.9717593282858094,
+      "pixel_accuracy": 0.975732421875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0198",
+      "iou": 0.9629245589651658,
+      "dice": 0.9811121416431918,
+      "precision": 0.9970556899926496,
+      "recall": 0.9656704628398308,
+      "pixel_accuracy": 0.9798253038194444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0199",
+      "iou": 0.9797237253358875,
+      "dice": 0.9897580281507853,
+      "precision": 0.9947597063123034,
+      "recall": 0.984806395499766,
+      "pixel_accuracy": 0.9891807725694445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0200",
+      "iou": 0.9888911822226218,
+      "dice": 0.9944145673344663,
+      "precision": 0.9991348766528192,
+      "recall": 0.9897386495187371,
+      "pixel_accuracy": 0.9941015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0266",
+      "iou": 0.9553040514152615,
+      "dice": 0.977141177326162,
+      "precision": 0.9848572443240475,
+      "recall": 0.9695450766607111,
+      "pixel_accuracy": 0.9757845052083334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0267",
+      "iou": 0.9288578255018812,
+      "dice": 0.96311694228702,
+      "precision": 0.9776822953229656,
+      "recall": 0.9489792032835443,
+      "pixel_accuracy": 0.9606477864583334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0268",
+      "iou": 0.9646354085752274,
+      "dice": 0.9819994125778181,
+      "precision": 0.9871676811390722,
+      "recall": 0.9768849786074185,
+      "pixel_accuracy": 0.9809809027777778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0269",
+      "iou": 0.9254543610103851,
+      "dice": 0.9612841309048235,
+      "precision": 0.9606420495370868,
+      "recall": 0.9619270711652611,
+      "pixel_accuracy": 0.9593348524305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0270",
+      "iou": 0.9279252922199686,
+      "dice": 0.9626154042011458,
+      "precision": 0.9757600284107333,
+      "recall": 0.9498202194347916,
+      "pixel_accuracy": 0.9601703559027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0271",
+      "iou": 0.9312022072847512,
+      "dice": 0.9643756658646441,
+      "precision": 0.97280333000223,
+      "recall": 0.9560927699279002,
+      "pixel_accuracy": 0.9622298177083334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0272",
+      "iou": 0.9766988097183801,
+      "dice": 0.9882120684410491,
+      "precision": 0.9994321982804899,
+      "recall": 0.9772410674268456,
+      "pixel_accuracy": 0.9874696180555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0273",
+      "iou": 0.9488831177139749,
+      "dice": 0.9737711913960316,
+      "precision": 0.9799617611351079,
+      "recall": 0.9676583442409711,
+      "pixel_accuracy": 0.9722569444444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0274",
+      "iou": 0.9647891859688106,
+      "dice": 0.982079088035174,
+      "precision": 0.9897134975760028,
+      "recall": 0.9745615568847666,
+      "pixel_accuracy": 0.9810177951388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0275",
+      "iou": 0.9839356775404968,
+      "dice": 0.9919028007604469,
+      "precision": 0.9975512260387674,
+      "recall": 0.9863179813816757,
+      "pixel_accuracy": 0.9914409722222223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0276",
+      "iou": 0.9595644542599097,
+      "dice": 0.9793650340757166,
+      "precision": 0.9922015014742197,
+      "recall": 0.9668564645285904,
+      "pixel_accuracy": 0.97802734375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0277",
+      "iou": 0.9542389912323909,
+      "dice": 0.9765837193030567,
+      "precision": 1.0,
+      "recall": 0.9542389912323909,
+      "pixel_accuracy": 0.9747981770833334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0278",
+      "iou": 0.9599405813393287,
+      "dice": 0.9795609014670758,
+      "precision": 0.9873638308239938,
+      "recall": 0.9718803349321193,
+      "pixel_accuracy": 0.9783463541666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0279",
+      "iou": 0.9597530091115541,
+      "dice": 0.9794632330189957,
+      "precision": 1.0,
+      "recall": 0.9597530091115541,
+      "pixel_accuracy": 0.9779622395833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0280",
+      "iou": 0.9694458102128257,
+      "dice": 0.9844858946467421,
+      "precision": 0.997410824159034,
+      "recall": 0.9718916548131844,
+      "pixel_accuracy": 0.9834798177083334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0281",
+      "iou": 0.9708505591463203,
+      "dice": 0.9852097153087519,
+      "precision": 0.9828317407355407,
+      "recall": 0.9875992248737515,
+      "pixel_accuracy": 0.9844921875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0282",
+      "iou": 0.9750081135943526,
+      "dice": 0.9873459322857341,
+      "precision": 0.9986765058101601,
+      "recall": 0.9762695785564347,
+      "pixel_accuracy": 0.9865473090277778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0283",
+      "iou": 0.9804463972605566,
+      "dice": 0.9901266690345718,
+      "precision": 0.981349262064238,
+      "recall": 0.999062507225631,
+      "pixel_accuracy": 0.9897146267361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0284",
+      "iou": 0.9524364769945864,
+      "dice": 0.9756388883500944,
+      "precision": 0.9866225914883425,
+      "recall": 0.9648970476284708,
+      "pixel_accuracy": 0.9741069878472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0285",
+      "iou": 0.9650502428921407,
+      "dice": 0.9822143188275835,
+      "precision": 0.9995994416960547,
+      "recall": 0.965423585505784,
+      "pixel_accuracy": 0.9809754774305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0286",
+      "iou": 0.934104105263778,
+      "dice": 0.9659294995771518,
+      "precision": 0.9822226443455208,
+      "recall": 0.950168077129726,
+      "pixel_accuracy": 0.9635861545138888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0287",
+      "iou": 0.9825570925759188,
+      "dice": 0.9912018133099926,
+      "precision": 0.9913941906657526,
+      "recall": 0.9910095106003567,
+      "pixel_accuracy": 0.9907508680555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0288",
+      "iou": 0.9660446362154457,
+      "dice": 0.9827290982315046,
+      "precision": 0.9948051304498642,
+      "recall": 0.9709427338697814,
+      "pixel_accuracy": 0.9816243489583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0289",
+      "iou": 0.9866856026983846,
+      "dice": 0.9932981860423554,
+      "precision": 0.9983936373171678,
+      "recall": 0.9882544814661154,
+      "pixel_accuracy": 0.992919921875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0290",
+      "iou": 0.9583050485558146,
+      "dice": 0.9787086534475647,
+      "precision": 0.9822763274171835,
+      "recall": 0.9751668016111344,
+      "pixel_accuracy": 0.9775401475694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0291",
+      "iou": 0.9454929720819122,
+      "dice": 0.9719829222206037,
+      "precision": 0.9781902197702365,
+      "recall": 0.9658539071578561,
+      "pixel_accuracy": 0.9703645833333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0292",
+      "iou": 0.9734593853052624,
+      "dice": 0.9865512232517356,
+      "precision": 0.9977494404572146,
+      "recall": 0.975601582010785,
+      "pixel_accuracy": 0.9857042100694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0293",
+      "iou": 0.9750744984576452,
+      "dice": 0.9873799689268332,
+      "precision": 0.9992236601944153,
+      "recall": 0.9758137527901392,
+      "pixel_accuracy": 0.9865766059027777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0294",
+      "iou": 0.9401932993277063,
+      "dice": 0.9691748751565026,
+      "precision": 0.976552886084522,
+      "recall": 0.9619075123348071,
+      "pixel_accuracy": 0.9673546006944445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0295",
+      "iou": 0.9634888765901406,
+      "dice": 0.9814049756812141,
+      "precision": 0.9848902800604554,
+      "recall": 0.9779442517282948,
+      "pixel_accuracy": 0.9803862847222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0296",
+      "iou": 0.9812625355194391,
+      "dice": 0.9905426645158621,
+      "precision": 0.9889392225039436,
+      "recall": 0.9921513145357075,
+      "pixel_accuracy": 0.9900759548611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0297",
+      "iou": 0.9559864191923941,
+      "dice": 0.9774980130865231,
+      "precision": 0.9865792320843072,
+      "recall": 0.9685824500378049,
+      "pixel_accuracy": 0.9761295572916666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0298",
+      "iou": 0.9794660809849352,
+      "dice": 0.9896265365634113,
+      "precision": 0.9806410584649945,
+      "recall": 0.9987782028015115,
+      "pixel_accuracy": 0.9891959635416666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0299",
+      "iou": 0.9654103559026362,
+      "dice": 0.9824008029704931,
+      "precision": 0.9781117598962678,
+      "recall": 0.9867276268238577,
+      "pixel_accuracy": 0.9815831163194444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0300",
+      "iou": 0.9605070736130591,
+      "dice": 0.9798557592989662,
+      "precision": 0.9940329201113305,
+      "recall": 0.9660773088198997,
+      "pixel_accuracy": 0.9785210503472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0366",
+      "iou": 0.9293516001082824,
+      "dice": 0.9633823094309236,
+      "precision": 0.9781943492372874,
+      "recall": 0.9490121530316475,
+      "pixel_accuracy": 0.9609212239583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0367",
+      "iou": 0.8581858757302095,
+      "dice": 0.9236814109277083,
+      "precision": 0.917860770888909,
+      "recall": 0.9295763456149889,
+      "pixel_accuracy": 0.9202907986111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0368",
+      "iou": 0.9534725311935238,
+      "dice": 0.9761821740190793,
+      "precision": 1.0,
+      "recall": 0.9534725311935238,
+      "pixel_accuracy": 0.97435546875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0369",
+      "iou": 0.9636095216114475,
+      "dice": 0.9814675586016265,
+      "precision": 0.9999793526647451,
+      "recall": 0.9636286943337963,
+      "pixel_accuracy": 0.9801540798611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0370",
+      "iou": 0.95916007352675,
+      "dice": 0.9791543697602347,
+      "precision": 0.9847271661119416,
+      "recall": 0.973644293918181,
+      "pixel_accuracy": 0.9779654947916666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0371",
+      "iou": 0.9868288528778363,
+      "dice": 0.993370769151512,
+      "precision": 0.9953213138312369,
+      "recall": 0.9914278545367792,
+      "pixel_accuracy": 0.9930186631944444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0372",
+      "iou": 0.965896444853953,
+      "dice": 0.9826524152707441,
+      "precision": 0.9999793526647451,
+      "recall": 0.9659157086899984,
+      "pixel_accuracy": 0.9814453125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0373",
+      "iou": 0.9845337704490222,
+      "dice": 0.9922066181078499,
+      "precision": 0.9970639489267515,
+      "recall": 0.9873963841281136,
+      "pixel_accuracy": 0.9917686631944445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0374",
+      "iou": 0.9764172115536254,
+      "dice": 0.9880679097973263,
+      "precision": 0.9971300203995672,
+      "recall": 0.9791690321324877,
+      "pixel_accuracy": 0.98734375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0375",
+      "iou": 0.9861443462868569,
+      "dice": 0.9930238435393447,
+      "precision": 0.9938408998934597,
+      "recall": 0.9922081295182027,
+      "pixel_accuracy": 0.9926616753472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0376",
+      "iou": 0.9108650027191465,
+      "dice": 0.9533535874308153,
+      "precision": 0.9579331191516423,
+      "recall": 0.9488176335492262,
+      "pixel_accuracy": 0.9507367621527778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0377",
+      "iou": 0.9750918322269088,
+      "dice": 0.9873888558665106,
+      "precision": 0.9980777330877677,
+      "recall": 0.9769264970392676,
+      "pixel_accuracy": 0.9866015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0378",
+      "iou": 0.9282342270640209,
+      "dice": 0.9627816102791353,
+      "precision": 0.9487739612325633,
+      "recall": 0.9772090738381775,
+      "pixel_accuracy": 0.9614507378472222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0379",
+      "iou": 0.9521177356511166,
+      "dice": 0.975471630898885,
+      "precision": 0.9894161759483321,
+      "recall": 0.9619146839137566,
+      "pixel_accuracy": 0.9738509114583334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0380",
+      "iou": 0.9690625745894901,
+      "dice": 0.984288246696802,
+      "precision": 0.9807855898117789,
+      "recall": 0.9878160111629377,
+      "pixel_accuracy": 0.983544921875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0381",
+      "iou": 0.9648983388435601,
+      "dice": 0.9821356349778895,
+      "precision": 0.9852412847597889,
+      "recall": 0.9790495027565363,
+      "pixel_accuracy": 0.9811642795138888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0382",
+      "iou": 0.9381202125043239,
+      "dice": 0.9680722655403718,
+      "precision": 0.9687378696905378,
+      "recall": 0.9674075754139261,
+      "pixel_accuracy": 0.9664192708333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0383",
+      "iou": 0.9677392582276328,
+      "dice": 0.9836051744978526,
+      "precision": 0.9870850917980526,
+      "recall": 0.9801497075351973,
+      "pixel_accuracy": 0.9827072482638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0384",
+      "iou": 0.9345946293461271,
+      "dice": 0.9661916922223757,
+      "precision": 0.960487194522675,
+      "recall": 0.9719643547392944,
+      "pixel_accuracy": 0.9646755642361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0385",
+      "iou": 0.9741365370933316,
+      "dice": 0.9868988479668437,
+      "precision": 0.9951107110116368,
+      "recall": 0.9788214076818094,
+      "pixel_accuracy": 0.9861154513888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0386",
+      "iou": 0.9638126016202831,
+      "dice": 0.9815728861552983,
+      "precision": 0.9877107060562764,
+      "recall": 0.975510878276279,
+      "pixel_accuracy": 0.9805110677083333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0387",
+      "iou": 0.9796058712760944,
+      "dice": 0.9896978843012023,
+      "precision": 1.0,
+      "recall": 0.9796058712760944,
+      "pixel_accuracy": 0.9890592447916666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0388",
+      "iou": 0.963333054769608,
+      "dice": 0.9813241339051897,
+      "precision": 0.9996407363665646,
+      "recall": 0.9636666905518269,
+      "pixel_accuracy": 0.9800043402777778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0389",
+      "iou": 0.9859289481135054,
+      "dice": 0.9929146247151183,
+      "precision": 0.9993909036099801,
+      "recall": 0.9865217409027356,
+      "pixel_accuracy": 0.9925043402777778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0390",
+      "iou": 0.9746217716261305,
+      "dice": 0.9871478028154373,
+      "precision": 0.9999731584641686,
+      "recall": 0.9746472694195517,
+      "pixel_accuracy": 0.9863161892361111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0391",
+      "iou": 0.9458930821622828,
+      "dice": 0.9721943007384592,
+      "precision": 0.9795240376277038,
+      "recall": 0.9649734453152492,
+      "pixel_accuracy": 0.9705544704861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0392",
+      "iou": 0.9631263390275097,
+      "dice": 0.9812168680948182,
+      "precision": 0.9764579083423494,
+      "recall": 0.9860224424864373,
+      "pixel_accuracy": 0.9803537326388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0393",
+      "iou": 0.9589863422102252,
+      "dice": 0.9790638367884172,
+      "precision": 0.9829370421453407,
+      "recall": 0.9752210358983604,
+      "pixel_accuracy": 0.9779079861111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0394",
+      "iou": 0.9810024235841486,
+      "dice": 0.9904101195487284,
+      "precision": 0.9995560822920194,
+      "recall": 0.9814300108054631,
+      "pixel_accuracy": 0.9898274739583334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0395",
+      "iou": 0.9511637087065561,
+      "dice": 0.9749706848915215,
+      "precision": 1.0,
+      "recall": 0.9511637087065561,
+      "pixel_accuracy": 0.973017578125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0396",
+      "iou": 0.9694247697197389,
+      "dice": 0.9844750453277724,
+      "precision": 0.9893707518107713,
+      "recall": 0.9796275511560062,
+      "pixel_accuracy": 0.9836013454861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0397",
+      "iou": 0.9515602626968827,
+      "dice": 0.9751789692437282,
+      "precision": 0.9824456355662738,
+      "recall": 0.9680190095658153,
+      "pixel_accuracy": 0.9737174479166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0398",
+      "iou": 0.980042519697818,
+      "dice": 0.9899206809431407,
+      "precision": 0.9974934135000537,
+      "recall": 0.982462062822583,
+      "pixel_accuracy": 0.9893250868055555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0399",
+      "iou": 0.958675705425286,
+      "dice": 0.9789019210989084,
+      "precision": 0.974657460708121,
+      "recall": 0.983183510926344,
+      "pixel_accuracy": 0.9779210069444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0400",
+      "iou": 0.8899978210455869,
+      "dice": 0.9417977218124212,
+      "precision": 0.9445453869723573,
+      "recall": 0.9390659960997639,
+      "pixel_accuracy": 0.9386480034722222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0466",
+      "iou": 0.9733246900575317,
+      "dice": 0.9864820472389212,
+      "precision": 0.9920466464598079,
+      "recall": 0.9809795258356677,
+      "pixel_accuracy": 0.9857118055555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0467",
+      "iou": 0.956378042417786,
+      "dice": 0.9777026951660611,
+      "precision": 0.9953915147711037,
+      "recall": 0.9606315844008855,
+      "pixel_accuracy": 0.9761404079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0468",
+      "iou": 0.9377056319904978,
+      "dice": 0.967851480131422,
+      "precision": 0.9780271058217227,
+      "recall": 0.9578854133805722,
+      "pixel_accuracy": 0.9658550347222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0469",
+      "iou": 0.9460558970753487,
+      "dice": 0.9722802911233321,
+      "precision": 0.9751901619576977,
+      "recall": 0.9693877341586912,
+      "pixel_accuracy": 0.9707779947916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0470",
+      "iou": 0.956904810992396,
+      "dice": 0.9779778818236186,
+      "precision": 0.9774882103715694,
+      "recall": 0.978468044122115,
+      "pixel_accuracy": 0.976865234375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0471",
+      "iou": 0.9549407800432591,
+      "dice": 0.9769511074623223,
+      "precision": 1.0,
+      "recall": 0.9549407800432591,
+      "pixel_accuracy": 0.9752029079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0472",
+      "iou": 0.9450970875717565,
+      "dice": 0.9717736904861731,
+      "precision": 0.9810374873018888,
+      "recall": 0.9626832104838743,
+      "pixel_accuracy": 0.9700499131944444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0473",
+      "iou": 0.9666743952700947,
+      "dice": 0.9830548438470271,
+      "precision": 0.9985732691338856,
+      "recall": 0.9680113687539406,
+      "pixel_accuracy": 0.9819086371527778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0474",
+      "iou": 0.9791812115406472,
+      "dice": 0.9894811105026876,
+      "precision": 0.9961719840437393,
+      "recall": 0.9828795169432482,
+      "pixel_accuracy": 0.9888693576388888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0475",
+      "iou": 0.9561359344207045,
+      "dice": 0.9775761669690478,
+      "precision": 0.9606626968723416,
+      "recall": 0.9950958690235582,
+      "pixel_accuracy": 0.9768391927083333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0476",
+      "iou": 0.9054971446767451,
+      "dice": 0.9504051446168467,
+      "precision": 0.9746409428399171,
+      "recall": 0.9273454152546535,
+      "pixel_accuracy": 0.9465440538194444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0477",
+      "iou": 0.9395012632078227,
+      "dice": 0.9688070650224193,
+      "precision": 0.9897134975760028,
+      "recall": 0.9487656043718962,
+      "pixel_accuracy": 0.9665071614583334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0478",
+      "iou": 0.9354569174135471,
+      "dice": 0.9666522762631652,
+      "precision": 0.9801124866824688,
+      "recall": 0.9535567644010189,
+      "pixel_accuracy": 0.9644618055555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0479",
+      "iou": 0.9370409506478875,
+      "dice": 0.9674973059650317,
+      "precision": 0.968583014676126,
+      "recall": 0.9664140285242815,
+      "pixel_accuracy": 0.9657996961805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0480",
+      "iou": 0.9544723760602508,
+      "dice": 0.9767059261121296,
+      "precision": 0.986758863901025,
+      "recall": 0.9668557579092605,
+      "pixel_accuracy": 0.9752647569444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0481",
+      "iou": 0.9104078862212119,
+      "dice": 0.9531031491102137,
+      "precision": 0.9526721781286908,
+      "recall": 0.9535345101945499,
+      "pixel_accuracy": 0.9507313368055555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0482",
+      "iou": 0.9605283997842775,
+      "dice": 0.9798668561903691,
+      "precision": 0.9892158967963595,
+      "recall": 0.9706928759274343,
+      "pixel_accuracy": 0.9786371527777777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0483",
+      "iou": 0.9241926945473795,
+      "dice": 0.9606030593155057,
+      "precision": 0.973245182976685,
+      "recall": 0.948285157884572,
+      "pixel_accuracy": 0.958046875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0484",
+      "iou": 0.8912522688834965,
+      "dice": 0.942499616309408,
+      "precision": 0.950966708236635,
+      "recall": 0.9341819701192229,
+      "pixel_accuracy": 0.9390212673611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0485",
+      "iou": 0.8965160075329567,
+      "dice": 0.9454346854674545,
+      "precision": 0.9435997390176823,
+      "recall": 0.947276782383033,
+      "pixel_accuracy": 0.9427604166666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0486",
+      "iou": 0.9237281582657073,
+      "dice": 0.9603520687647189,
+      "precision": 0.9619552200592991,
+      "recall": 0.9587542520594063,
+      "pixel_accuracy": 0.9582584635416667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0487",
+      "iou": 0.8589180578219295,
+      "dice": 0.9241053463414227,
+      "precision": 0.9150898984976998,
+      "recall": 0.9333002017377241,
+      "pixel_accuracy": 0.9210091145833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0488",
+      "iou": 0.8549540465453451,
+      "dice": 0.9218061742689596,
+      "precision": 0.9155957582114452,
+      "recall": 0.9281014152424246,
+      "pixel_accuracy": 0.9183680555555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0489",
+      "iou": 0.9515976791316176,
+      "dice": 0.9751986173246939,
+      "precision": 0.9908346478803446,
+      "recall": 0.9600484140400716,
+      "pixel_accuracy": 0.9735145399305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0490",
+      "iou": 0.9408324392169565,
+      "dice": 0.969514338493376,
+      "precision": 0.9595704528373568,
+      "recall": 0.9796664762462873,
+      "pixel_accuracy": 0.9682866753472222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0491",
+      "iou": 0.9413764687807399,
+      "dice": 0.9698031102354516,
+      "precision": 0.9741412773267482,
+      "recall": 0.9655034103675993,
+      "pixel_accuracy": 0.9681195746527778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0492",
+      "iou": 0.95567692967393,
+      "dice": 0.9773362002416933,
+      "precision": 0.9985608807327326,
+      "recall": 0.9569950134557543,
+      "pixel_accuracy": 0.9756618923611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0493",
+      "iou": 0.9629554514996967,
+      "dice": 0.9811281766623887,
+      "precision": 0.9999587053294902,
+      "recall": 0.962993746458149,
+      "pixel_accuracy": 0.9797840711805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0494",
+      "iou": 0.9041281805932551,
+      "dice": 0.94965054328597,
+      "precision": 0.9559612986347982,
+      "recall": 0.9434225621025305,
+      "pixel_accuracy": 0.946728515625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0495",
+      "iou": 0.9256314065822904,
+      "dice": 0.9613796320710707,
+      "precision": 0.9786609790140485,
+      "recall": 0.9446980085144379,
+      "pixel_accuracy": 0.9586783854166666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0496",
+      "iou": 0.9705655208295226,
+      "dice": 0.9850629279466502,
+      "precision": 0.9860320777000521,
+      "recall": 0.9840956814355513,
+      "pixel_accuracy": 0.9842849392361112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0497",
+      "iou": 0.9687057659494988,
+      "dice": 0.9841041588886655,
+      "precision": 0.9905290673185718,
+      "recall": 0.9777620616001695,
+      "pixel_accuracy": 0.98318359375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0498",
+      "iou": 0.9788792307020696,
+      "dice": 0.989326903344962,
+      "precision": 0.9954059679057821,
+      "recall": 0.9833216392399383,
+      "pixel_accuracy": 0.9887131076388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0499",
+      "iou": 0.9680908133729937,
+      "dice": 0.9837867305664015,
+      "precision": 0.9985732691338856,
+      "recall": 0.9694317104411255,
+      "pixel_accuracy": 0.9827029079861112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0500",
+      "iou": 0.931650800416785,
+      "dice": 0.9646161720490746,
+      "precision": 0.974762762117921,
+      "recall": 0.9546786434330341,
+      "pixel_accuracy": 0.9624186197916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0566",
+      "iou": 0.9745668719164723,
+      "dice": 0.987119642061632,
+      "precision": 0.9996572542347685,
+      "recall": 0.9748926256526528,
+      "pixel_accuracy": 0.9862901475694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0567",
+      "iou": 0.9600568517923004,
+      "dice": 0.9796214338521992,
+      "precision": 0.998595981202666,
+      "recall": 0.9613545199031577,
+      "pixel_accuracy": 0.9781662326388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0568",
+      "iou": 0.9539643052001899,
+      "dice": 0.9764398486311685,
+      "precision": 0.9999938057994235,
+      "recall": 0.9539699422876164,
+      "pixel_accuracy": 0.9746397569444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0569",
+      "iou": 0.9781780184441915,
+      "dice": 0.9889686462227646,
+      "precision": 0.9973447526862184,
+      "recall": 0.9807320599031933,
+      "pixel_accuracy": 0.9883072916666666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0570",
+      "iou": 0.9647561445273448,
+      "dice": 0.9820619695880205,
+      "precision": 0.9982470412368579,
+      "recall": 0.9663933574261225,
+      "pixel_accuracy": 0.9808355034722223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0571",
+      "iou": 0.9573374102231582,
+      "dice": 0.9782037631560019,
+      "precision": 0.996834763505422,
+      "recall": 0.9602564179062917,
+      "pixel_accuracy": 0.9766547309027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0572",
+      "iou": 0.9443035733606114,
+      "dice": 0.9713540481010788,
+      "precision": 0.9911381637085918,
+      "recall": 0.9523442971274846,
+      "pixel_accuracy": 0.9692784288194445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0573",
+      "iou": 0.9445525931445901,
+      "dice": 0.971485776702113,
+      "precision": 0.9787931219596799,
+      "recall": 0.9642867313520881,
+      "pixel_accuracy": 0.9698046875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0574",
+      "iou": 0.902815616952205,
+      "dice": 0.9489260114422132,
+      "precision": 0.974998141739827,
+      "recall": 0.9242119396091111,
+      "pixel_accuracy": 0.94484375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0575",
+      "iou": 0.8420212432367714,
+      "dice": 0.9142361917142547,
+      "precision": 0.9148090947382331,
+      "recall": 0.9136640058070117,
+      "pixel_accuracy": 0.9098014322916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0576",
+      "iou": 0.8021959891590877,
+      "dice": 0.8902427860061943,
+      "precision": 0.8934824621534345,
+      "recall": 0.8870265184514061,
+      "pixel_accuracy": 0.8842198350694445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0577",
+      "iou": 0.7366607880294881,
+      "dice": 0.8483646237735861,
+      "precision": 0.8331261717362757,
+      "recall": 0.8641709053916582,
+      "pixel_accuracy": 0.843486328125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0578",
+      "iou": 0.7759011411879834,
+      "dice": 0.8738111859863401,
+      "precision": 0.8709335073215451,
+      "recall": 0.8767079441486155,
+      "pixel_accuracy": 0.8678059895833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0579",
+      "iou": 0.9340148530862238,
+      "dice": 0.9658817786179461,
+      "precision": 0.9600205647459139,
+      "recall": 0.971815001065951,
+      "pixel_accuracy": 0.9643576388888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0580",
+      "iou": 0.9644077266922094,
+      "dice": 0.981881422667929,
+      "precision": 0.9978526771334891,
+      "recall": 0.9664133738601823,
+      "pixel_accuracy": 0.9806467013888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0581",
+      "iou": 0.9727450548072392,
+      "dice": 0.9861842536995111,
+      "precision": 0.9929200287410906,
+      "recall": 0.9795392512323298,
+      "pixel_accuracy": 0.9853797743055556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0582",
+      "iou": 0.9147993384171311,
+      "dice": 0.9555041304467444,
+      "precision": 0.950142879559964,
+      "recall": 0.9609262271632883,
+      "pixel_accuracy": 0.9534950086805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0583",
+      "iou": 0.9324837759998721,
+      "dice": 0.9650624627028526,
+      "precision": 0.9633179441861234,
+      "recall": 0.9668133111467073,
+      "pixel_accuracy": 0.9633452690972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0584",
+      "iou": 0.9290919026348183,
+      "dice": 0.9632427582800317,
+      "precision": 0.9864594775398287,
+      "recall": 0.9410937398433237,
+      "pixel_accuracy": 0.9604351128472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0585",
+      "iou": 0.9592733900121169,
+      "dice": 0.9792134113618359,
+      "precision": 0.9889454167045201,
+      "recall": 0.9696710807347287,
+      "pixel_accuracy": 0.9779351128472222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0586",
+      "iou": 0.9210418938959989,
+      "dice": 0.9588982903731116,
+      "precision": 0.9694212964874753,
+      "recall": 0.9486012841597401,
+      "pixel_accuracy": 0.9563259548611112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0587",
+      "iou": 0.9536017980741377,
+      "dice": 0.9762499184984362,
+      "precision": 0.9583646484584699,
+      "recall": 0.9948154435056946,
+      "pixel_accuracy": 0.9754947916666666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0588",
+      "iou": 0.9533786844387749,
+      "dice": 0.976132986433903,
+      "precision": 0.9690930038569222,
+      "recall": 0.9832760014916055,
+      "pixel_accuracy": 0.9750954861111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0589",
+      "iou": 0.9480481259924913,
+      "dice": 0.9733313190191129,
+      "precision": 0.9577865230713324,
+      "recall": 0.9893890208892321,
+      "pixel_accuracy": 0.9724175347222223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0590",
+      "iou": 0.969210781800088,
+      "dice": 0.9843646914365525,
+      "precision": 0.9873473129557899,
+      "recall": 0.9814000357099613,
+      "pixel_accuracy": 0.9835167100694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0591",
+      "iou": 0.8704434817040505,
+      "dice": 0.9307348660554458,
+      "precision": 0.9259276847730032,
+      "recall": 0.9355922231656865,
+      "pixel_accuracy": 0.9275748697916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0592",
+      "iou": 0.9060791790612709,
+      "dice": 0.9507256456235023,
+      "precision": 0.9370710516100792,
+      "recall": 0.9647840616310809,
+      "pixel_accuracy": 0.9489539930555555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0593",
+      "iou": 0.9332421832117443,
+      "dice": 0.9654684667198038,
+      "precision": 0.96538474244514,
+      "recall": 0.965552205517925,
+      "pixel_accuracy": 0.9637087673611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0594",
+      "iou": 0.9652596348884381,
+      "dice": 0.9823227605682066,
+      "precision": 0.9825509369760739,
+      "recall": 0.9820946901138997,
+      "pixel_accuracy": 0.981416015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0595",
+      "iou": 0.8999790998749936,
+      "dice": 0.9473568419086362,
+      "precision": 0.9424393587763563,
+      "recall": 0.952325911336627,
+      "pixel_accuracy": 0.9449565972222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0596",
+      "iou": 0.9289865719847363,
+      "dice": 0.9631861470439382,
+      "precision": 0.9686243093466357,
+      "recall": 0.9578087069435456,
+      "pixel_accuracy": 0.9610883246527778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0597",
+      "iou": 0.9532897214788384,
+      "dice": 0.9760863542118078,
+      "precision": 0.9929035108728868,
+      "recall": 0.9598293856646435,
+      "pixel_accuracy": 0.9744325086805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0598",
+      "iou": 0.9159064413140336,
+      "dice": 0.9561076904004298,
+      "precision": 0.9554285973852215,
+      "recall": 0.9567877494644733,
+      "pixel_accuracy": 0.9538997395833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0599",
+      "iou": 0.924586824953445,
+      "dice": 0.96081591432053,
+      "precision": 0.9841407817907021,
+      "recall": 0.9385710825675067,
+      "pixel_accuracy": 0.9578157552083333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0600",
+      "iou": 0.9788363795655102,
+      "dice": 0.9893050175077454,
+      "precision": 0.987330795087586,
+      "recall": 0.9912871508796806,
+      "pixel_accuracy": 0.9887814670138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0666",
+      "iou": 0.9761934207271827,
+      "dice": 0.9879533151850809,
+      "precision": 0.9778784450078872,
+      "recall": 0.9982379448873001,
+      "pixel_accuracy": 0.9874674479166666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0667",
+      "iou": 0.982934789301915,
+      "dice": 0.9913939627313247,
+      "precision": 0.9887513317531239,
+      "recall": 0.994050757459387,
+      "pixel_accuracy": 0.9909787326388889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0668",
+      "iou": 0.9799663986904105,
+      "dice": 0.989881847831943,
+      "precision": 0.9863541761300286,
+      "recall": 0.9934348433678817,
+      "pixel_accuracy": 0.9894032118055556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0669",
+      "iou": 0.960964833034937,
+      "dice": 0.9800938975001152,
+      "precision": 0.9663696203367993,
+      "recall": 0.9942136120316085,
+      "pixel_accuracy": 0.9793706597222223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0670",
+      "iou": 0.9737216026095122,
+      "dice": 0.9866858642294108,
+      "precision": 0.9763030533279375,
+      "recall": 0.9972918876850491,
+      "pixel_accuracy": 0.9861534288194445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0671",
+      "iou": 0.9844987747193252,
+      "dice": 0.9921888461317558,
+      "precision": 0.9987116062800935,
+      "recall": 0.9857507356957114,
+      "pixel_accuracy": 0.9917361111111112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0672",
+      "iou": 0.9731670812646442,
+      "dice": 0.9864010914280215,
+      "precision": 0.9733298370512302,
+      "recall": 0.9998282034749559,
+      "pixel_accuracy": 0.9858962673611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0673",
+      "iou": 0.9412566953048273,
+      "dice": 0.9697395481817264,
+      "precision": 0.941925240128509,
+      "recall": 0.9992465079806633,
+      "pixel_accuracy": 0.9691069878472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0674",
+      "iou": 0.9718061255666851,
+      "dice": 0.9857014976940432,
+      "precision": 0.9719505950562021,
+      "recall": 0.9998470723921064,
+      "pixel_accuracy": 0.9851812065972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0675",
+      "iou": 0.9665162164171092,
+      "dice": 0.9829730447664975,
+      "precision": 0.9665162164171092,
+      "recall": 1.0,
+      "pixel_accuracy": 0.9824034288194444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0676",
+      "iou": 0.9568146382478511,
+      "dice": 0.9779307856206465,
+      "precision": 0.9680358602918707,
+      "recall": 0.988030084948464,
+      "pixel_accuracy": 0.9770388454861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0677",
+      "iou": 0.9742099820208855,
+      "dice": 0.9869365375446462,
+      "precision": 0.9744654404902503,
+      "recall": 0.9997309800798163,
+      "pixel_accuracy": 0.9864431423611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0678",
+      "iou": 0.9715603508967522,
+      "dice": 0.9855750552650786,
+      "precision": 0.9716305613597509,
+      "recall": 0.9999256298619478,
+      "pixel_accuracy": 0.9850531684027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0679",
+      "iou": 0.9699846275257715,
+      "dice": 0.9847636514240588,
+      "precision": 0.9745108646278111,
+      "recall": 0.9952344703830769,
+      "pixel_accuracy": 0.9841525607638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0680",
+      "iou": 0.9587259768254309,
+      "dice": 0.9789281279449497,
+      "precision": 0.9587259768254309,
+      "recall": 1.0,
+      "pixel_accuracy": 0.9783094618055556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0681",
+      "iou": 0.9432121553737233,
+      "dice": 0.9707763022842171,
+      "precision": 0.9432218927825174,
+      "recall": 0.9999890550095222,
+      "pixel_accuracy": 0.97015625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0682",
+      "iou": 0.9609013500586848,
+      "dice": 0.9800608786667697,
+      "precision": 0.9685933383437534,
+      "recall": 0.991803209370177,
+      "pixel_accuracy": 0.9792881944444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0683",
+      "iou": 0.9261661026423684,
+      "dice": 0.9616679489601939,
+      "precision": 0.9510162618412468,
+      "recall": 0.9725609434221223,
+      "pixel_accuracy": 0.9601573350694445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0684",
+      "iou": 0.942607531558898,
+      "dice": 0.9704559631790134,
+      "precision": 0.9507953353540192,
+      "recall": 0.9909468474284484,
+      "pixel_accuracy": 0.9695768229166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0685",
+      "iou": 0.9464747351229801,
+      "dice": 0.9725014335345904,
+      "precision": 0.9524780931772946,
+      "recall": 0.9933847280244628,
+      "pixel_accuracy": 0.9716927083333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0686",
+      "iou": 0.9805827824322555,
+      "dice": 0.9901962100549521,
+      "precision": 0.9898394463210578,
+      "recall": 0.9905532310553231,
+      "pixel_accuracy": 0.9896994357638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0687",
+      "iou": 0.9499533874533874,
+      "dice": 0.9743344569831114,
+      "precision": 0.9509811613713134,
+      "recall": 0.9988636043261109,
+      "pixel_accuracy": 0.9736707899305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0688",
+      "iou": 0.9523540159170908,
+      "dice": 0.9755956226716761,
+      "precision": 0.9524739637102435,
+      "recall": 0.9998677842151693,
+      "pixel_accuracy": 0.9749576822916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0689",
+      "iou": 0.9856929802005657,
+      "dice": 0.9927949486944405,
+      "precision": 0.9893583634096184,
+      "recall": 0.9962554914953292,
+      "pixel_accuracy": 0.9924533420138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0690",
+      "iou": 0.9651852295219677,
+      "dice": 0.9822842295194224,
+      "precision": 0.9655499211271793,
+      "recall": 0.9996088255789595,
+      "pixel_accuracy": 0.9816970486111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0691",
+      "iou": 0.9428706492412685,
+      "dice": 0.9705953915248853,
+      "precision": 0.9430711672351566,
+      "recall": 0.999774545534141,
+      "pixel_accuracy": 0.969970703125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0692",
+      "iou": 0.9826221294021964,
+      "dice": 0.9912349053608902,
+      "precision": 0.9928353746665456,
+      "recall": 0.9896395877239199,
+      "pixel_accuracy": 0.9907725694444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0693",
+      "iou": 0.9857384277615487,
+      "dice": 0.9928180005789948,
+      "precision": 0.9984080904518463,
+      "recall": 0.9872901600316878,
+      "pixel_accuracy": 0.9924088541666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0694",
+      "iou": 0.9645642807619929,
+      "dice": 0.981962555470945,
+      "precision": 0.965161751224387,
+      "recall": 0.999358633118903,
+      "pixel_accuracy": 0.9813661024305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0695",
+      "iou": 0.9660590473084409,
+      "dice": 0.9827365547652169,
+      "precision": 0.9663283256662895,
+      "recall": 0.9997116315035106,
+      "pixel_accuracy": 0.982158203125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0696",
+      "iou": 0.963761454887081,
+      "dice": 0.9815463609275279,
+      "precision": 0.9828048991997093,
+      "recall": 0.9802910417945243,
+      "pixel_accuracy": 0.9805794270833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0697",
+      "iou": 0.9792145955894436,
+      "dice": 0.989498155249625,
+      "precision": 0.9842853131374865,
+      "recall": 0.9947665064761352,
+      "pixel_accuracy": 0.9890201822916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0698",
+      "iou": 0.9663078359477892,
+      "dice": 0.9828652648195492,
+      "precision": 0.9680296660912943,
+      "recall": 0.9981626687502528,
+      "pixel_accuracy": 0.9822623697916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0699",
+      "iou": 0.9835180478304643,
+      "dice": 0.9916905459027391,
+      "precision": 0.9843059604727414,
+      "recall": 0.9991867720509483,
+      "pixel_accuracy": 0.9913313802083333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0700",
+      "iou": 0.9560314995746649,
+      "dice": 0.9775215785456952,
+      "precision": 0.9560314995746649,
+      "recall": 1.0,
+      "pixel_accuracy": 0.9768934461805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0766",
+      "iou": 0.9244410895086526,
+      "dice": 0.9607372182483179,
+      "precision": 0.9431599507767527,
+      "recall": 0.9789820875178418,
+      "pixel_accuracy": 0.9594878472222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0767",
+      "iou": 0.9565235966805756,
+      "dice": 0.9777787482894731,
+      "precision": 0.9707571790784681,
+      "recall": 0.9849026327696871,
+      "pixel_accuracy": 0.9768120659722223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0768",
+      "iou": 0.9263991791159337,
+      "dice": 0.9617935775295319,
+      "precision": 0.946965254664233,
+      "recall": 0.9770936747693816,
+      "pixel_accuracy": 0.9604622395833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0769",
+      "iou": 0.9688577177444626,
+      "dice": 0.9841825633336195,
+      "precision": 0.9703380381727934,
+      "recall": 0.9984278667000922,
+      "pixel_accuracy": 0.9836089409722222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0770",
+      "iou": 0.9322717457414718,
+      "dice": 0.9649488978929623,
+      "precision": 0.9431165913727174,
+      "recall": 0.9878159547412675,
+      "pixel_accuracy": 0.9639930555555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0771",
+      "iou": 0.9652201705277701,
+      "dice": 0.982302324190531,
+      "precision": 0.9664976338153798,
+      "recall": 0.9986325012426959,
+      "pixel_accuracy": 0.9816981336805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0772",
+      "iou": 0.9659854366158092,
+      "dice": 0.982698466249708,
+      "precision": 0.9772982548872242,
+      "recall": 0.9881586886039904,
+      "pixel_accuracy": 0.9819151475694444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0773",
+      "iou": 0.9703443345399705,
+      "dice": 0.9849489934626308,
+      "precision": 0.972442001635269,
+      "recall": 0.9977818924461468,
+      "pixel_accuracy": 0.9843815104166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0774",
+      "iou": 0.981242725860119,
+      "dice": 0.9905325713527917,
+      "precision": 0.9870107613911349,
+      "recall": 0.9940796040592248,
+      "pixel_accuracy": 0.9900846354166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0775",
+      "iou": 0.964194299550985,
+      "dice": 0.9817707950495528,
+      "precision": 0.9652195637631007,
+      "recall": 0.9988995585413488,
+      "pixel_accuracy": 0.9811631944444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0776",
+      "iou": 0.940021925070761,
+      "dice": 0.9690838159331362,
+      "precision": 0.9401247924942807,
+      "recall": 0.9998836131741103,
+      "pixel_accuracy": 0.9684765625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0777",
+      "iou": 0.9590297695579072,
+      "dice": 0.9790864686801883,
+      "precision": 0.9610178310387262,
+      "recall": 0.9978475628580249,
+      "pixel_accuracy": 0.9784244791666666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0778",
+      "iou": 0.9572647289123818,
+      "dice": 0.9781658196480323,
+      "precision": 0.9617177757038676,
+      "recall": 0.9951862677229957,
+      "pixel_accuracy": 0.9774370659722222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0779",
+      "iou": 0.9579600403300479,
+      "dice": 0.978528693740417,
+      "precision": 0.9612552753941577,
+      "recall": 0.9964342661458612,
+      "pixel_accuracy": 0.9778309461805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0780",
+      "iou": 0.9539928966350555,
+      "dice": 0.9764548256832598,
+      "precision": 0.9683207935183885,
+      "recall": 0.9847266695362779,
+      "pixel_accuracy": 0.975458984375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0781",
+      "iou": 0.9671742676537562,
+      "dice": 0.9833132565395973,
+      "precision": 0.9708067326830799,
+      "recall": 0.9961462190998381,
+      "pixel_accuracy": 0.9826844618055556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0782",
+      "iou": 0.9461059318538074,
+      "dice": 0.9723067140056171,
+      "precision": 0.9471139154780684,
+      "recall": 0.9988763702403609,
+      "pixel_accuracy": 0.9716471354166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0783",
+      "iou": 0.9652526919157782,
+      "dice": 0.9823191652517981,
+      "precision": 0.9759809548979609,
+      "recall": 0.9887402368670959,
+      "pixel_accuracy": 0.9815364583333334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0784",
+      "iou": 0.9740713437359217,
+      "dice": 0.9868653904802608,
+      "precision": 0.9821483139386031,
+      "recall": 0.9916279961808987,
+      "pixel_accuracy": 0.9862608506944445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0785",
+      "iou": 0.9743432934424452,
+      "dice": 0.9870049415201649,
+      "precision": 0.9835833037388194,
+      "recall": 0.99045046843228,
+      "pixel_accuracy": 0.9863888888888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0786",
+      "iou": 0.9842864397339711,
+      "dice": 0.992081002041149,
+      "precision": 0.992505017302467,
+      "recall": 0.9916573489183848,
+      "pixel_accuracy": 0.9916731770833334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0787",
+      "iou": 0.9845578154153823,
+      "dice": 0.9922188285648985,
+      "precision": 0.9860031714306952,
+      "recall": 0.9985133484995483,
+      "pixel_accuracy": 0.9918728298611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0788",
+      "iou": 0.9609661129622977,
+      "dice": 0.9800945631953137,
+      "precision": 0.9610653199098125,
+      "recall": 0.9998925925368999,
+      "pixel_accuracy": 0.9794845920138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0789",
+      "iou": 0.9482321909492614,
+      "dice": 0.9734283165573221,
+      "precision": 0.9530582832979576,
+      "recall": 0.9946881181931413,
+      "pixel_accuracy": 0.97265625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0790",
+      "iou": 0.9401216012411827,
+      "dice": 0.9691367805396783,
+      "precision": 0.9408495139617281,
+      "recall": 0.9991777235440773,
+      "pixel_accuracy": 0.9685080295138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0791",
+      "iou": 0.9629465307417118,
+      "dice": 0.9811235463228398,
+      "precision": 0.9903721475706345,
+      "recall": 0.9720460832294738,
+      "pixel_accuracy": 0.9799728732638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0792",
+      "iou": 0.9657571575767173,
+      "dice": 0.9825803292683948,
+      "precision": 0.9695637631007342,
+      "recall": 0.9959511508148601,
+      "pixel_accuracy": 0.98193359375,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0793",
+      "iou": 0.942005703617078,
+      "dice": 0.9701369072835858,
+      "precision": 0.9480079450946061,
+      "recall": 0.9933236555906272,
+      "pixel_accuracy": 0.9693283420138888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0794",
+      "iou": 0.9818426776145949,
+      "dice": 0.9908381615803834,
+      "precision": 0.9870871565315781,
+      "recall": 0.9946177835753979,
+      "pixel_accuracy": 0.9904069010416666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0795",
+      "iou": 0.9812466596644291,
+      "dice": 0.9905345756702766,
+      "precision": 0.98182002130805,
+      "recall": 0.9994052147742128,
+      "pixel_accuracy": 0.9901388888888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0796",
+      "iou": 0.970683360061754,
+      "dice": 0.9851236172525822,
+      "precision": 0.9710421123049859,
+      "recall": 0.999619535876279,
+      "pixel_accuracy": 0.9845876736111111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0797",
+      "iou": 0.9536534969889664,
+      "dice": 0.9762770096731768,
+      "precision": 0.9586784879543446,
+      "recall": 0.9945337283100182,
+      "pixel_accuracy": 0.9755154079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0798",
+      "iou": 0.9502438178014232,
+      "dice": 0.9744871991161245,
+      "precision": 0.9724791668387278,
+      "recall": 0.9765035411587135,
+      "pixel_accuracy": 0.9732400173611111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0799",
+      "iou": 0.9741930879804261,
+      "dice": 0.9869278683140492,
+      "precision": 0.986515225345017,
+      "recall": 0.987340856630965,
+      "pixel_accuracy": 0.9862662760416666,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0800",
+      "iou": 0.9526149061975911,
+      "dice": 0.9757324940765285,
+      "precision": 0.9816403894913323,
+      "recall": 0.9698952852879196,
+      "pixel_accuracy": 0.9743391927083334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0866",
+      "iou": 0.9514746563742246,
+      "dice": 0.9751340129028712,
+      "precision": 0.9523253028964082,
+      "recall": 0.9990620945400039,
+      "pixel_accuracy": 0.9744759114583333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0867",
+      "iou": 0.9529979690354449,
+      "dice": 0.9759333948576666,
+      "precision": 0.9639993062495354,
+      "recall": 0.988166669841411,
+      "pixel_accuracy": 0.9750141059027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0868",
+      "iou": 0.982352018352923,
+      "dice": 0.9910974531850604,
+      "precision": 0.9955298519173116,
+      "recall": 0.9867043482531679,
+      "pixel_accuracy": 0.9906011284722223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0869",
+      "iou": 0.9654242154242154,
+      "dice": 0.982407978743499,
+      "precision": 0.9664687275460229,
+      "recall": 0.9988817945916416,
+      "pixel_accuracy": 0.9818098958333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0870",
+      "iou": 0.9775103063183957,
+      "dice": 0.9886272685357205,
+      "precision": 0.9806245405967906,
+      "recall": 0.9967616892942666,
+      "pixel_accuracy": 0.9881434461805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0871",
+      "iou": 0.987258212448126,
+      "dice": 0.9935882576949187,
+      "precision": 0.9912331414507644,
+      "recall": 0.9959545918494361,
+      "pixel_accuracy": 0.9932769097222223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0872",
+      "iou": 0.9644784200263138,
+      "dice": 0.9819180604828378,
+      "precision": 0.9732266003749556,
+      "recall": 0.9907661586967945,
+      "pixel_accuracy": 0.9811631944444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0873",
+      "iou": 0.9887373073608566,
+      "dice": 0.9943367620261071,
+      "precision": 0.9925814124429101,
+      "recall": 0.9960983311714953,
+      "pixel_accuracy": 0.9940581597222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0874",
+      "iou": 0.9645799666198638,
+      "dice": 0.9819706838194641,
+      "precision": 0.9773003196207497,
+      "recall": 0.9866859002286765,
+      "pixel_accuracy": 0.9811404079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0875",
+      "iou": 0.9918440671137905,
+      "dice": 0.9959053356530928,
+      "precision": 0.9963350979922532,
+      "recall": 0.9954759439041799,
+      "pixel_accuracy": 0.9956944444444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0876",
+      "iou": 0.9688047047055122,
+      "dice": 0.9841552109155723,
+      "precision": 0.9918484320413608,
+      "recall": 0.9765804153723552,
+      "pixel_accuracy": 0.9832161458333334,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0877",
+      "iou": 0.9499975246299321,
+      "dice": 0.9743576723875292,
+      "precision": 0.9508841188956153,
+      "recall": 0.9990194972537246,
+      "pixel_accuracy": 0.9736979166666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0878",
+      "iou": 0.9755032147719226,
+      "dice": 0.9875997239362095,
+      "precision": 0.9927383321908474,
+      "recall": 0.9825140386297316,
+      "pixel_accuracy": 0.9868988715277778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0879",
+      "iou": 0.9599645649419545,
+      "dice": 0.9795733883284613,
+      "precision": 0.9620873630049306,
+      "recall": 0.997706800161873,
+      "pixel_accuracy": 0.9789138454861112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0880",
+      "iou": 0.9324971240590123,
+      "dice": 0.9650696111778915,
+      "precision": 0.9539956723185306,
+      "recall": 0.976403660961647,
+      "pixel_accuracy": 0.9637076822916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0881",
+      "iou": 0.9618290162329421,
+      "dice": 0.9805431648470808,
+      "precision": 0.9858070217457735,
+      "recall": 0.9753352236049714,
+      "pixel_accuracy": 0.9794401041666667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0882",
+      "iou": 0.9677142521984479,
+      "dice": 0.983592257988943,
+      "precision": 0.9708851925570486,
+      "recall": 0.9966363578559165,
+      "pixel_accuracy": 0.9829774305555555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0883",
+      "iou": 0.9736287908104034,
+      "dice": 0.9866382121539846,
+      "precision": 0.9870293439928642,
+      "recall": 0.986247390181305,
+      "pixel_accuracy": 0.9859505208333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0884",
+      "iou": 0.9816652917853056,
+      "dice": 0.9907478279552565,
+      "precision": 0.9901842568198148,
+      "recall": 0.9913120409778967,
+      "pixel_accuracy": 0.9902810329861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0885",
+      "iou": 0.9722214217790969,
+      "dice": 0.9859150813827766,
+      "precision": 0.9752686218316664,
+      "recall": 0.9967965492208735,
+      "pixel_accuracy": 0.9853559027777777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0886",
+      "iou": 0.9831635450399299,
+      "dice": 0.9915103043305835,
+      "precision": 0.9885531173346768,
+      "recall": 0.9944852368440183,
+      "pixel_accuracy": 0.991103515625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0887",
+      "iou": 0.9789188162197779,
+      "dice": 0.9893471204541415,
+      "precision": 1.0,
+      "recall": 0.9789188162197779,
+      "pixel_accuracy": 0.9886827256944445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0888",
+      "iou": 0.9693382665179396,
+      "dice": 0.9844304383846283,
+      "precision": 0.9850554587424947,
+      "recall": 0.9838062106780441,
+      "pixel_accuracy": 0.9836252170138889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0889",
+      "iou": 0.9618877877810179,
+      "dice": 0.9805737043390801,
+      "precision": 0.9984349319876776,
+      "recall": 0.9633402926082938,
+      "pixel_accuracy": 0.9792100694444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0890",
+      "iou": 0.958465265024381,
+      "dice": 0.9787922023855236,
+      "precision": 1.0,
+      "recall": 0.958465265024381,
+      "pixel_accuracy": 0.9772265625,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0891",
+      "iou": 0.9867990798176067,
+      "dice": 0.9933556843686453,
+      "precision": 0.9919661218523137,
+      "recall": 0.9947491453902838,
+      "pixel_accuracy": 0.9930262586805556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0892",
+      "iou": 0.9897694830864123,
+      "dice": 0.9948584411407704,
+      "precision": 0.9899922366019441,
+      "recall": 0.9997727206382171,
+      "pixel_accuracy": 0.9946223958333333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0893",
+      "iou": 0.9865818627773754,
+      "dice": 0.9932456157614038,
+      "precision": 0.9899633303325873,
+      "recall": 0.9965497388401718,
+      "pixel_accuracy": 0.9929242621527777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0894",
+      "iou": 0.9588125271947028,
+      "dice": 0.9789732441295526,
+      "precision": 0.9600102410782865,
+      "recall": 0.9987004925240731,
+      "pixel_accuracy": 0.9783279079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0895",
+      "iou": 0.984066811670168,
+      "dice": 0.9919694295393109,
+      "precision": 0.9845991526333612,
+      "recall": 0.9994508799543937,
+      "pixel_accuracy": 0.9916221788194445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0896",
+      "iou": 0.96863392148168,
+      "dice": 0.9840670841967853,
+      "precision": 0.9696959060463657,
+      "recall": 0.9988706404808392,
+      "pixel_accuracy": 0.9834982638888888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0897",
+      "iou": 0.9530535672936437,
+      "dice": 0.9759625473194725,
+      "precision": 0.9602931095712788,
+      "recall": 0.9921518350072104,
+      "pixel_accuracy": 0.9751410590277778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0898",
+      "iou": 0.9724085733671275,
+      "dice": 0.9860113026249065,
+      "precision": 0.9735590224725597,
+      "recall": 0.9987862509558538,
+      "pixel_accuracy": 0.9854828559027777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0899",
+      "iou": 0.9612851657202363,
+      "dice": 0.9802604766729337,
+      "precision": 0.9758694592875844,
+      "recall": 0.9846911882663,
+      "pixel_accuracy": 0.979345703125,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0900",
+      "iou": 0.890042067367458,
+      "dice": 0.9418224945724638,
+      "precision": 0.9239310874538532,
+      "recall": 0.9604204986660886,
+      "pixel_accuracy": 0.9400141059027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0966",
+      "iou": 0.978365002425631,
+      "dice": 0.9890642032446779,
+      "precision": 0.9910307975652662,
+      "recall": 0.9871053984575835,
+      "pixel_accuracy": 0.9884830729166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0967",
+      "iou": 0.9722233938919185,
+      "dice": 0.9859160954108408,
+      "precision": 0.9994053567446586,
+      "recall": 0.9727861215450071,
+      "pixel_accuracy": 0.9849945746527777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0968",
+      "iou": 0.9776046678642852,
+      "dice": 0.9886755262567718,
+      "precision": 0.9921519478696079,
+      "recall": 0.9852233817891046,
+      "pixel_accuracy": 0.9880555555555556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0969",
+      "iou": 0.9541906928778084,
+      "dice": 0.9765584252912743,
+      "precision": 0.9819500995201559,
+      "recall": 0.9712256367527651,
+      "pixel_accuracy": 0.9752256944444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0970",
+      "iou": 0.9808555916240408,
+      "dice": 0.990335283169096,
+      "precision": 0.9925876066434866,
+      "recall": 0.9880931582419886,
+      "pixel_accuracy": 0.9898187934027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0971",
+      "iou": 0.9756697699186544,
+      "dice": 0.9876850724489511,
+      "precision": 0.9873679602910448,
+      "recall": 0.9880023883656017,
+      "pixel_accuracy": 0.987060546875,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0972",
+      "iou": 0.9540491428298172,
+      "dice": 0.9764842878497735,
+      "precision": 0.9886398361427474,
+      "recall": 0.9646240194044103,
+      "pixel_accuracy": 0.9749761284722223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0973",
+      "iou": 0.9599518094846586,
+      "dice": 0.9795667473447363,
+      "precision": 0.973943062908301,
+      "recall": 0.9852557528463979,
+      "pixel_accuracy": 0.9786469184027777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0974",
+      "iou": 0.9371234041210313,
+      "dice": 0.9675412543438352,
+      "precision": 0.9810168399666339,
+      "recall": 0.9544308628707452,
+      "pixel_accuracy": 0.9654090711805555,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0975",
+      "iou": 0.92441518331431,
+      "dice": 0.9607232278455035,
+      "precision": 0.9665471874199916,
+      "recall": 0.9549690327950452,
+      "pixel_accuracy": 0.9584678819444444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0976",
+      "iou": 0.9146427576683627,
+      "dice": 0.9554187108849566,
+      "precision": 0.9627955666041741,
+      "recall": 0.9481540372872878,
+      "pixel_accuracy": 0.9527810329861112,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0977",
+      "iou": 0.8621886728408157,
+      "dice": 0.925994970773316,
+      "precision": 0.923039122570841,
+      "recall": 0.9289698108188982,
+      "pixel_accuracy": 0.9224652777777778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0978",
+      "iou": 0.8941535115822994,
+      "dice": 0.9441193716504631,
+      "precision": 0.9508056590216467,
+      "recall": 0.9375264666601518,
+      "pixel_accuracy": 0.9408506944444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0979",
+      "iou": 0.9080484053444112,
+      "dice": 0.9518085629284698,
+      "precision": 0.9495750778404539,
+      "recall": 0.9540525794988497,
+      "pixel_accuracy": 0.9494672309027777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0980",
+      "iou": 0.8788362952185803,
+      "dice": 0.9355113028794647,
+      "precision": 0.9528559394124594,
+      "recall": 0.9187868193826986,
+      "pixel_accuracy": 0.9309624565972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0981",
+      "iou": 0.8807962994768399,
+      "dice": 0.9366206215121129,
+      "precision": 0.9423980641058465,
+      "recall": 0.9309135853836129,
+      "pixel_accuracy": 0.9329741753472223,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0982",
+      "iou": 0.836037447104735,
+      "dice": 0.910697598704308,
+      "precision": 0.9125337583931418,
+      "recall": 0.9088688134540601,
+      "pixel_accuracy": 0.9059494357638889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0983",
+      "iou": 0.8133786780904846,
+      "dice": 0.8970864033175737,
+      "precision": 0.9071468686251353,
+      "recall": 0.8872466361192842,
+      "pixel_accuracy": 0.8906195746527777,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0984",
+      "iou": 0.796459853146482,
+      "dice": 0.8866993066964345,
+      "precision": 0.8987578563110645,
+      "recall": 0.8749600500103518,
+      "pixel_accuracy": 0.8792957899305556,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0985",
+      "iou": 0.7832959162847654,
+      "dice": 0.8784811417239682,
+      "precision": 0.8716747466571965,
+      "recall": 0.8853946675782635,
+      "pixel_accuracy": 0.8732671440972222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0986",
+      "iou": 0.8564410408152082,
+      "dice": 0.9226697988093651,
+      "precision": 0.9358652472311924,
+      "recall": 0.9098412813116623,
+      "pixel_accuracy": 0.9175596788194444,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0987",
+      "iou": 0.9778309816107178,
+      "dice": 0.9887912472828047,
+      "precision": 0.9908552952155995,
+      "recall": 0.9867357806993375,
+      "pixel_accuracy": 0.9881944444444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0988",
+      "iou": 0.9392963936030044,
+      "dice": 0.9686981285598047,
+      "precision": 0.9832508816412154,
+      "recall": 0.9545698730746719,
+      "pixel_accuracy": 0.9666059027777778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0989",
+      "iou": 0.9614672998125973,
+      "dice": 0.9803551656501823,
+      "precision": 0.9999876115988471,
+      "recall": 0.961478752168855,
+      "pixel_accuracy": 0.9789388020833333,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0990",
+      "iou": 0.9177647642449094,
+      "dice": 0.9571192268789704,
+      "precision": 0.9778722508073108,
+      "recall": 0.9372287647404552,
+      "pixel_accuracy": 0.9539529079861111,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0991",
+      "iou": 0.9174976765708146,
+      "dice": 0.9569739643300483,
+      "precision": 0.9661796648524541,
+      "recall": 0.9479420308644726,
+      "pixel_accuracy": 0.9543424479166667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0992",
+      "iou": 0.9717551017107461,
+      "dice": 0.9856752503063144,
+      "precision": 0.9924492694972786,
+      "recall": 0.978993077125184,
+      "pixel_accuracy": 0.9848404947916667,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0993",
+      "iou": 0.969436561464719,
+      "dice": 0.9844811256512116,
+      "precision": 0.977583188113742,
+      "recall": 0.9914771002037538,
+      "pixel_accuracy": 0.9838031684027778,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0994",
+      "iou": 0.9630380851562437,
+      "dice": 0.9811710658477548,
+      "precision": 0.9842584716016551,
+      "recall": 0.9781029685743129,
+      "pixel_accuracy": 0.9801475694444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0995",
+      "iou": 0.9803554415385695,
+      "dice": 0.990080286574127,
+      "precision": 0.9815578001503126,
+      "recall": 0.9987520641363401,
+      "pixel_accuracy": 0.9896636284722222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0996",
+      "iou": 0.9530710074541691,
+      "dice": 0.975971691573568,
+      "precision": 1.0,
+      "recall": 0.9530710074541691,
+      "pixel_accuracy": 0.9741232638888889,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0997",
+      "iou": 0.9515327882185378,
+      "dice": 0.975164541393278,
+      "precision": 0.9904134422411444,
+      "recall": 0.9603780800086491,
+      "pixel_accuracy": 0.9734884982638888,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0998",
+      "iou": 0.9451843062559523,
+      "dice": 0.9718197943671694,
+      "precision": 0.999991741065898,
+      "recall": 0.9451916846863022,
+      "pixel_accuracy": 0.9695225694444445,
+      "detected": true
+    },
+    {
+      "image": "psu_track_0999",
+      "iou": 0.9583143679275528,
+      "dice": 0.9787135136446135,
+      "precision": 0.9998306918509097,
+      "recall": 0.9584699064177474,
+      "pixel_accuracy": 0.9771440972222222,
+      "detected": true
+    },
+    {
+      "image": "psu_track_1000",
+      "iou": 0.9653901101433245,
+      "dice": 0.9823903205383732,
+      "precision": 0.9947968715157621,
+      "recall": 0.9702894128972102,
+      "pixel_accuracy": 0.9812575954861111,
+      "detected": true
+    }
+  ]
+}

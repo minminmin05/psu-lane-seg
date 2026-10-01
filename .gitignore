@@ -1,0 +1,18 @@
+# dataset (rebuild with prepare_data.py), including the copies used for the ablation dev split
+data/
+data_pool/
+data_dev/
+splits_dev/
+
+# predicted masks / overlays (rebuild with predict.py); the metric files next to them are kept
+result/**/masks/
+result/**/overlays/
+
+# the baseline's 31 MB weights are not part of the deliverable
+checkpoints/unet_baseline/
+
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/

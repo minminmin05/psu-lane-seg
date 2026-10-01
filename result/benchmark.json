@@ -1,0 +1,108 @@
+{
+  "checkpoint": "checkpoints/tinylanenet/best.pt",
+  "model": "tinylanenet",
+  "input": [
+    1,
+    3,
+    72,
+    128
+  ],
+  "frame": [
+    720,
+    1280,
+    3
+  ],
+  "device": "cpu",
+  "cpu_threads": 4,
+  "parameters": 79353,
+  "weights_mb": 0.3147850036621094,
+  "checkpoint_file_mb": 0.3608369827270508,
+  "stage_outputs": [
+    {
+      "stage": "stem",
+      "shape": [
+        16,
+        72,
+        128
+      ],
+      "mb": 0.5625
+    },
+    {
+      "stage": "enc1",
+      "shape": [
+        32,
+        36,
+        64
+      ],
+      "mb": 0.28125
+    },
+    {
+      "stage": "enc2",
+      "shape": [
+        64,
+        18,
+        32
+      ],
+      "mb": 0.140625
+    },
+    {
+      "stage": "enc3",
+      "shape": [
+        96,
+        9,
+        16
+      ],
+      "mb": 0.052734375
+    },
+    {
+      "stage": "dec2",
+      "shape": [
+        64,
+        18,
+        32
+      ],
+      "mb": 0.140625
+    },
+    {
+      "stage": "dec1",
+      "shape": [
+        32,
+        36,
+        64
+      ],
+      "mb": 0.28125
+    },
+    {
+      "stage": "dec0",
+      "shape": [
+        16,
+        72,
+        128
+      ],
+      "mb": 0.5625
+    },
+    {
+      "stage": "head",
+      "shape": [
+        1,
+        72,
+        128
+      ],
+      "mb": 0.03515625
+    }
+  ],
+  "peak_activation_mb": 5.203125,
+  "rss_mb": {
+    "runtime": 494.12109375,
+    "model_loaded": 497.265625,
+    "after_inference": 514.125,
+    "after_pipeline": 525.87109375,
+    "peak": 529.390625
+  },
+  "latency_ms": {
+    "network_median": 11.695049999616458,
+    "network_min": 9.33699999950477,
+    "pipeline_median": 18.48094999877503,
+    "pipeline_min": 14.937200001440942
+  }
+}
